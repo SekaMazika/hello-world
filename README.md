@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+my name is sayed elghanam , i'm just start to use Github site
+thank you
